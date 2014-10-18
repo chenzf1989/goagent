@@ -1,4 +1,7 @@
-goagent 3.2.0 正式版下载 [http://git.io/goa](https://nodeload.github.com/goagent/goagent/legacy.zip/3.0)
+goagent 3.2.1 正式版下载 [http://git.io/goa](https://nodeload.github.com/goagent/goagent/legacy.zip/3.0)
+
+## 最近更新
+* [1018 否] 3.2.1 正式版， bug 修复，删除默认证书。
 
 ## 讨论区
 * https://code.google.com/p/goagent/issues/list
